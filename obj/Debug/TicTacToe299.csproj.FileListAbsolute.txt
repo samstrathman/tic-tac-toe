@@ -1,0 +1,46 @@
+c:\users\ringenberg\documents\visual studio 2012\Projects\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe.config
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.pdb
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.csprojResolveAssemblyReference.cache
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\MainWindow.baml
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\MainWindow.g.cs
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\App.g.cs
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299_MarkupCompile.cache
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.g.resources
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.Properties.Resources.resources
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.csproj.GenerateResource.Cache
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.exe
+C:\Users\ringenberg\Documents\Visual Studio 2012\Projects\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.pdb
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe.config
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.exe
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.pdb
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.csprojResolveAssemblyReference.cache
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\MainWindow.baml
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\MainWindow.g.cs
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\App.g.cs
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299_MarkupCompile.cache
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.g.resources
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.Properties.Resources.resources
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.csproj.GenerateResource.Cache
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.pdb
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe.config
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.exe
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.pdb
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.pdb
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\MainWindow.baml
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\MainWindow.g.cs
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\App.g.cs
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299_MarkupCompile.cache
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.g.resources
+D:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.Properties.Resources.resources
+E:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe.config
+E:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.exe
+E:\Fall 2015 Classe\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.pdb
+E:\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe.config
+E:\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.exe
+E:\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.pdb
+F:\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\bin\Debug\TicTacToe299.exe.config
+F:\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.exe
+F:\C# Stuffs\TicTacToe299AI\TicTacToe299\TicTacToe299\obj\Debug\TicTacToe299.pdb
